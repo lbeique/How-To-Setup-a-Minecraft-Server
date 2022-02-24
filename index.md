@@ -2,15 +2,13 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "How to Setup a Minecraft Server is a step-by-step guide on how to run and operate a Minecraft Java Edition Server."
 permalink: /
 ---
 
 # Introduction
-{: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
+On a public server players can collaborate with other plays to build more and play mini games. However, you cannot control exactly who can connect to the public servers. By setting up your own local server you can control exactly who can connect.
 
 ---
 
