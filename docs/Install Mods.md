@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Install Mods on your Minecraft Server
-nav_order: 2
+nav_order: 4
 ---
 
 # Install Mods on a Minecraft Server
