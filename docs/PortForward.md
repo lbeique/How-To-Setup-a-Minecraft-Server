@@ -10,21 +10,21 @@ Now that our Minecraft server is up and running, we need to configure some setti
 
 1. First, we need to find your Internal IP Address. 
 
-  If you are on Windows, open the Command Prompt App. Next type the command < ipconfig >, this will give you a list Ethernet adapters. Look for the IPv4 address (it begins with 192.168) and write it down.
+    If you are on Windows, open the Command Prompt App. Next type the command < ipconfig >, this will give you a list Ethernet adapters. Look for the IPv4 address (it begins with 192.168) and write it down.
 
-  If you are on Mac, open the Terminal App. Next type the command < ifconfig >, this will give you a list of Ethernet adapters. Look for the IPv4 address (it begins with 192.168) and write it down.
+    If you are on Mac, open the Terminal App. Next type the command < ifconfig >, this will give you a list of Ethernet adapters. Look for the IPv4 address (it begins with 192.168) and write it down.
 
 2. Next, we need to find your External IP Address. Thankfully, this one is really easy. Go to the website https://whatismyipaddress.com/ and look for the IPv4 address near the top of the page. Once again, write down this information because we will need it shortly.
 
 3. Now that we have our Internal and External IP Addresses and the port number from step 9 in the “Server Initialization” (by default this port number is 25565), we can proceed to go into the settings of our router and enable Port Forwarding.
 
-  If you do not have a Shaw Blue Curve Router, there are a few general steps you can take here. In your browser, type in your Internal IP Address. This will hopefully allow you to access your router. Inside this page, look for “advanced settings” or “networking”, and then look for “Port Forwarding”. If given a choice, you’ll want to Manually Enter this information:
+    If you do not have a Shaw Blue Curve Router, there are a few general steps you can take here. In your browser, type in your Internal IP Address. This will hopefully allow you to access your router. Inside this page, look for “advanced settings” or “networking”, and then look for “Port Forwarding”. If given a choice, you’ll want to Manually Enter this information:
 
-  Service name: Minecraft Server
-  Service type: TCP/UDP
-  Port Ranges: 25565
-  Internal IP Address: (What you wrote down in step 1)
-  External IP Address: (What you wrote down in step 2)
+    Service name: Minecraft Server
+    Service type: TCP/UDP
+    Port Ranges: 25565
+    Internal IP Address: (What you wrote down in step 1)
+    External IP Address: (What you wrote down in step 2)
 
 4. Find the server file in the Minecraft server folder of the file type “properties source file”, and then right-click it, select Open With, and then select Notepad. The server file should open and display all of the Minecraft server properties.
 
