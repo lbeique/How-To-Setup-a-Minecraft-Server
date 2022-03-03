@@ -18,7 +18,7 @@ One of the most popular and easiest way to install and run mods is to use an app
 
 2. Go to https://www.curseforge.com/minecraft/mc-mods and download which mods you would like on your server. Make sure the mods you are downloading are compatible with your Forge software.
 
-3. Create your "mods" folder in your .minecraft directory. The target file directory address is: C:Users[yourname]AppDataRoaming.minecraft. 
+3. Create your "mods" folder in your .minecraft directory. To find .minecraft folder, go to your windows search box and enter "%appdata%". Your .minecraft folder should be near the top.
 
 4. With the .minecraft folder open, right-click within File Explorer and select New followed by Folder on the pop-up menu. Name that folder “mods.”
 
