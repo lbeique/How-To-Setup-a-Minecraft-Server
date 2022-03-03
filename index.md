@@ -24,15 +24,15 @@ As a prerequisite to setting up the Minecraft server, we need to ensure that you
 
 1. Go to https://www.java.com/en/download/ and click on the Agree and Start Free Download button. Remember to keep track of where you download the file.
 
-![Download Java](assets/images/Pre1.1.PNG)
+    ![Download Java](assets/images/index/Pre1.1.PNG)
 
 2. Locate the file you just downloaded, double click it and follow the installation wizard. Once you are done with this step, you will see the “You have successfully installed Java” message.
 
-![Succesful Java Install](assets/images/Pre1.2.PNG)
+    ![Succesful Java Install](assets/images/index/Pre1.2.PNG)
 
 3. Next, we are going to download the Java Dev Kit. Go to https://www.oracle.com/java/technologies/downloads/#jdk17-windows and click on the x64 installer download link. Make sure that the Windows tab is bolded, otherwise, the file downloaded will not work with Windows.
 
-![Download Java Devkit](assets/images/Pre1.3.png)
+    ![Download Java Devkit](assets/images/index/Pre1.3.png)
 
 4. Once again, locate the file you downloaded, double click it and follow the installation wizard.
 
