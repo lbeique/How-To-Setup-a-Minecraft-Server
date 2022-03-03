@@ -9,3 +9,23 @@ nav_order: 4
 Minecraft mods are a great way to add a bunch of new content to the already existing ones. The best thing is that it's free! From pokemons to cooking content, there is most likely a mod for it somewhere.
 
 This guide will explain the process of adding mods on your current minecraft server.
+
+# Install Minecraft Mods on Windows
+
+One of the most popular and easiest way to install and run mods is to use an application called Forge.
+
+1. Go to https://files.minecraftforge.net/net/minecraftforge/forge/ and click on the installer button to download the recommened version of Forge app.
+
+2. Go to https://www.curseforge.com/minecraft/mc-mods and download which mods you would like on your server. Make sure the mods you are downloading are compatible with your Forge software.
+
+3. Create your "mods" folder in your .minecraft directory. The target file directory address is: C:Users[yourname]AppDataRoaming.minecraft. 
+
+4. With the .minecraft folder open, right-click within File Explorer and select New followed by Folder on the pop-up menu. Name that folder “mods.”
+
+    Note: If you can't find the AppData folder in your File Explorer, click View at the top of the window and make sure "Hidden Items" is checked.
+
+5. Now, you can move the mod that you have downloaded from Curseforge into "mods" folder in your .minecraft directory.
+
+6. Run your Minecraft game application and make sure you have selected the Forge account. This way your mods will load properly.
+
+Congratulations! Now you can start playing Minecraft with your newly added mods!
