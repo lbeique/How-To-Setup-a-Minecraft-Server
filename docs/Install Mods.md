@@ -10,7 +10,6 @@ Minecraft mods are a great way to add a bunch of new content to the already exis
 
 This guide will explain the process of adding mods on your current minecraft server.
 
-# Install Minecraft Mods on Windows
 
 One of the most popular and easiest way to install and run mods is to use an application called Forge.
 
