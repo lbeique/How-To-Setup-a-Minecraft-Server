@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Install Mods on your Minecraft Server
+title: Forward Port for Minecraft Server
 nav_order: 3
 ---
 
