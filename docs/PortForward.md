@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Forward Port for Minecraft Server
+title: Port Forwarding
 nav_order: 3
 ---
 
