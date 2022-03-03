@@ -14,6 +14,7 @@ Now, let's get started!
 
 1. Go to https://www.spigotmc.org/resources and download the plugins you would like on your server.
 
+
 2. Find your .minecraft folder and go into your "plugins" folder. To find .minecraft folder, go to your windows search box and enter "%appdata%". Your .minecraft folder should be near the top.
 
 3. Move your downloaded plugins into the "plugins" folder.
