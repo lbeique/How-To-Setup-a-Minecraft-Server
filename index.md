@@ -51,7 +51,8 @@ As a prerequisite to setting up the Minecraft server, we need to ensure that you
 
 This is the list of hardware requirements for Minecraft Java Edition as per the official [website](https://www.minecraft.net/en-us/store/minecraft-java-edition).
 
-||Minimum Requirements:|Recommended Requirements:|
+|  | **Minimum Requirements:** | **Recommended Requirements:** |
+| ------------ | ------------------ | ---------- |
 |CPU|Intel Core i3-3210 3.2 GHz/ AMD A8-7600 APU 3.1 GHz or equivalent|Intel Core i5-4690 3.5GHz / AMD A10-7800 APU 3.5 GHz or equivalent|
 
 ## Conclusion
