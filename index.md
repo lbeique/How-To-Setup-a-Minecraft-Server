@@ -7,8 +7,11 @@ permalink: /
 ---
 
 # Introduction
+{: .no_toc }
 
 On a public server players can collaborate with other plays to build more and play mini games. However, you cannot control exactly who can connect to the public servers. By setting up your own local server you can control exactly who can connect.
+
+This guide is for parents that want a safer environment for their kids to collaborate with their friends on minecraft, or seasoned minecraft players that want their own private servers to play on with their friends.
 
 Setting up your own local server requires changing your home network's configuration and is not recommended unless you know what you are doing. If this is a concern for you, please see our alternative guide to set up a private server by purchasing Minecraft Realms. If you still want to go with this free route, please do so at your own risk!
 
@@ -22,7 +25,7 @@ Setting up your own local server requires changing your home network's configura
 
 ## Intended Users
 
-This guide is for parents that want a safer environment for their kids to collaborate with their friends on minecraft, or seasoned minecraft players that want their own private servers to play on with their friends.
+Users of this guide are expected to have basic understanding of the windows operating system and the ability to read and understand command lines. Pictures and clear instructions are provided throughout the guide to try and accomodate users at all skill levels.
 
 ## Prerequistes
 
@@ -30,7 +33,7 @@ This guide is for parents that want a safer environment for their kids to collab
 
 As a prerequisite to setting up the Minecraft server, we need to ensure that your computer can run and operate [Java](https://www.java.com/en/). 
 
-1. Go to https://www.java.com/en/download/ and click on the Agree and Start Free Download button. Remember to keep track of where you download the file.
+1. Go to [java.com/en/download](https://www.java.com/en/download/) and click on the Agree and Start Free Download button. Remember to keep track of where you download the file.
 
     ![Download Java](assets/images/index/Pre1.1.PNG)
 
@@ -38,7 +41,7 @@ As a prerequisite to setting up the Minecraft server, we need to ensure that you
 
     ![Succesful Java Install](assets/images/index/Pre1.2.PNG)
 
-3. Next, we are going to download the Java Dev Kit. Go to https://www.oracle.com/java/technologies/downloads/#jdk17-windows and click on the x64 installer download link. Make sure that the Windows tab is bolded, otherwise, the file downloaded will not work with Windows.
+3. Next, we are going to download the Java Dev Kit. Go to [oracle.com/java](https://www.oracle.com/java/technologies/downloads/#jdk17-windows) and click on the x64 installer download link. Make sure that the Windows tab is bolded, otherwise, the file downloaded will not work with Windows.
 
     ![Download Java Devkit](assets/images/index/Pre1.3.png)
 
@@ -46,7 +49,10 @@ As a prerequisite to setting up the Minecraft server, we need to ensure that you
 
 ### System Requirements
 
-You need a cheapo computer.
+This is the list of hardware requirements for Minecraft Java Edition as per the official [website](https://www.minecraft.net/en-us/store/minecraft-java-edition).
+
+||Minimum Requirements:|Recommended Requirements:|
+|CPU|Intel Core i3-3210 3.2 GHz/ AMD A8-7600 APU 3.1 GHz or equivalent|Intel Core i5-4690 3.5GHz / AMD A10-7800 APU 3.5 GHz or equivalent|
 
 ## Conclusion
 
