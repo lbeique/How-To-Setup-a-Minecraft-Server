@@ -14,6 +14,12 @@ Setting up your own local server requires changing your home network's configura
 
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ## Intended Users
 
 This guide is for parents that want a safer environment for their kids to collaborate with their friends on minecraft, or seasoned minecraft players that want their own private servers to play on with their friends.
