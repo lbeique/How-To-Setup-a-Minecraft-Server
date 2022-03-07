@@ -65,7 +65,7 @@ The first task we need to do to set up and host a Minecraft: Java Edition Server
     
 ## Running the Server
 
-1. Now that we have the port number recorded, we return to the command prompt app. To run the server, simply repeat steps 2 and 3 from [Starting the Server](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/Server%20Initialization/#starting-the-server). If you get a Windows Security Alert, simply Allow access to Private networks, such as my home or work network.
+1. Now that we have the port number recorded, we return to the command prompt app. To run the server, simply repeat the steps from [Starting the Server](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/Server%20Initialization/#starting-the-server). If you get a Windows Security Alert, simply Allow access to Private networks, such as my home or work network.
 
     ![Minecraft Task](../assets/images/server/Task1.22.png)
 
