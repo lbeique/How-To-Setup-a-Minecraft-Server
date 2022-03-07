@@ -12,7 +12,7 @@ The first task to set up and host a Minecraft: Java Edition Server is to downloa
 
 1. Before we download the .jar file, we need to create a folder to keep all of the server files in. Create the folder on your desktop and name it “Minecraft Server”.
 
-2. Go to https://www.minecraft.net/en-us/download/server and download the minecraft_server.1.XX.X.jar file and save the file in the “Minecraft Server” folder we created.
+2. Go to [www.minecraft.net/en-us/download/server](https://www.minecraft.net/en-us/download/server) and download the minecraft_server.1.XX.X.jar file and save the file in the “Minecraft Server” folder we created.
 
     ![Minecraft Task](../assets/images/server/Task1.01.PNG)
 
