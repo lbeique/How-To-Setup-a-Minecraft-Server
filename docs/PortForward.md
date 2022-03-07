@@ -31,7 +31,7 @@ Now that our Minecraft server is up and running, we need to configure some setti
 
 ## Port Forwarding   
 
-For this part of the guide, we will give you the step by step instructions needing to forward the port on the Shaw Blue Curve Router. However, we can only give you more generalized instructions if you are currently using different router.
+For this part of the guide, we will give you the step by step instructions needed to forward the port on the Shaw Blue Curve Router. However, we can only give you more generalized instructions if you are currently using different router.
 
 ### Shaw Blue Curve Router
 
