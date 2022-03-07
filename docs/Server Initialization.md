@@ -10,6 +10,12 @@ These are the steps you will take to start running your Minecraft server.
 
 The first task to set up and host a Minecraft: Java Edition Server is to download the Minecraft Server `.jar`, also called a Java ARchive file, and change its configuration settings. This task will require you to use of the Command Prompt app and run some command lines. But do not worry, we will guide you through every step of the process!
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ## Getting Started
 
 1. Before we download the `.jar` file, we need to create a folder to keep all of the server files in. Create the folder on your desktop and name it “Minecraft Server”.
