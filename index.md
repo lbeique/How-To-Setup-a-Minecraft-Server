@@ -33,7 +33,7 @@ Users of this guide are expected to have basic understanding of the windows oper
 
 As a prerequisite to setting up the Minecraft server, we need to ensure that your computer can run and operate [Java](https://www.java.com/en/). 
 
-1. Go to [java.com/en/download](https://www.java.com/en/download/) and click on the Agree and Start Free Download button. Remember to keep track of where you download the file.
+1. Go to [www.java.com/en/download](https://www.java.com/en/download/) and click on the Agree and Start Free Download button. Remember to keep track of where you download the file.
 
     ![Download Java](assets/images/index/Pre1.1.PNG)
 
@@ -41,7 +41,7 @@ As a prerequisite to setting up the Minecraft server, we need to ensure that you
 
     ![Succesful Java Install](assets/images/index/Pre1.2.PNG)
 
-3. Next, we are going to download the Java Dev Kit. Go to [oracle.com/java](https://www.oracle.com/java/technologies/downloads/#jdk17-windows) and click on the x64 installer download link. Make sure that the Windows tab is bolded, otherwise, the file downloaded will not work with Windows.
+3. Next, we are going to download the Java Dev Kit. Go to [www.oracle.com/java/technologies/downloads](https://www.oracle.com/java/technologies/downloads/#jdk17-windows) and click on the x64 installer download link. Make sure that the Windows tab is bolded, otherwise, the file downloaded will not work with Windows.
 
     ![Download Java Devkit](assets/images/index/Pre1.3.png)
 
@@ -49,7 +49,7 @@ As a prerequisite to setting up the Minecraft server, we need to ensure that you
 
 ### System Requirements
 
-This is the list of hardware requirements for Minecraft Java Edition as per the official [website](https://www.minecraft.net/en-us/store/minecraft-java-edition).
+This is the list of hardware requirements for Minecraft Java Edition as per the official Minecraft [website](https://www.minecraft.net/en-us/store/minecraft-java-edition).
 
 |  | **Minimum Requirements:** | **Recommended Requirements:** |
 | ------------ | ------------------ | ---------- |
