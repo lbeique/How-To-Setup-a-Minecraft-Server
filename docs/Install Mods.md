@@ -40,5 +40,6 @@ One of the most popular and easiest way to install and run mods is to use an app
 
     ![Minecraft Task](../assets/images/mods/select_forge_account.png)
 
+## Conclusion
 
 Congratulations! Now you can start playing Minecraft with your newly added mods!
