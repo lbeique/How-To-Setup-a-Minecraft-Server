@@ -54,6 +54,11 @@ This is the list of hardware requirements for Minecraft Java Edition as per the 
 |  | **Minimum Requirements:** | **Recommended Requirements:** |
 | ------------ | ------------------ | ---------- |
 |CPU|Intel Core i3-3210 3.2 GHz/ AMD A8-7600 APU 3.1 GHz or equivalent|Intel Core i5-4690 3.5GHz / AMD A10-7800 APU 3.5 GHz or equivalent|
+|GPU (Integrated)|Intel HD Graphics 4000 (Ivy Bridge) or AMD Radeon R5 series (Kaveri line) with OpenGL 4.4*||
+|GPU (Discrete)|Nvidia GeForce 400 Series or AMD Radeon HD 7000 series with OpenGL 4.4|GeForce 700 Series or AMD Radeon Rx 200 Series (excluding integrated chipsets) with OpenGL 4.5|
+|RAM|4GB|8GB|
+|HDD|At least 1GB for game core, maps and other files|4GB (SSD is recommended)|
+|OS|Windows: Windows 7 and up -macOS: Any 64-bit / OS X using 10.9 Maverick or newer / Linux: Any modern 64-bit distributions from 2014 onwards|64 bit recommended: Windows: Windows 10 / macOS: macOS 10.12 Sierra / Linux: Any modern distributions from 2014 onwards|
 
 ## Conclusion
 
