@@ -7,7 +7,7 @@ nav_order: 3
 # Port Forwarding
 {: .no_toc }
 
-Now that our Minecraft server is up and running, we need to configure some settings in our network to give other players access to the server. This is a very short process, however, there can be a lot of variability in this task because every router is different. In this guide, we will cover the steps you will have to take if you are using a Shaw Blue Curve router, but we will also briefly detail the “general” set of steps should take if you have a different router.
+Now that our Minecraft server is up and running, we need to configure some settings in our network to give other players access to the server. This is a very short process, however, there can be a lot of variability in this task because every router is different. In this guide, we will cover the steps you will have to take if you are using a Shaw Blue Curve router, but we will also briefly detail the “general” set of steps you should take if you have a different router.
 
 ## Table of contents
 {: .no_toc .text-delta }
