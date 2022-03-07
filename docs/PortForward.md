@@ -73,7 +73,7 @@ Now that we have our Internal and External IP Addresses and the port number from
 
       ![Minecraft Task](../assets/images/port/Task2.04.png)
 
-2. Inside the server file, find the `server-port` and `server-ip` entries. Set `server-port` to the same value that we used for the Port Ranges in [step 3](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/PortForward/#finding-the-ip-addresses). 
+2. Inside the server file, find the `server-port` and `server-ip` entries. Set `server-port` to the same value that we found earlier and used in [Port Forwarding](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/PortForward/#finding-the-ip-addresses), which is `25565` by default. 
 
       ![Minecraft Task](../assets/images/port/Task2.05.png)
 
