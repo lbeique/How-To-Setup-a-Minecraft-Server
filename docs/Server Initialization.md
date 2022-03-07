@@ -43,7 +43,7 @@ The first task we need to do to set up and host a Minecraft: Java Edition Server
     
 ## Changing the Configurations
 
-1. In the Minecraft Server folder, open the `eula.txt` file by double-clicking it. Inside the file, change the line `eula=false` and write and replace it with the line `eula=true`. You might notice a star in the file header in the top left. This indicates that there are unsaved changes. Make sure to save your changes and then close the file.
+1. In the Minecraft Server folder, open the `eula.txt` file by double-clicking it. Inside the file, change the line `eula=false` and replace it with the line `eula=true`. You might notice a star in the file header in the top left. This indicates that there are unsaved changes. Make sure to save your changes and then close the file.
 
     ![Minecraft Task](../assets/images/server/Task1.05.PNG)
 
