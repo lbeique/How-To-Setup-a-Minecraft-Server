@@ -41,7 +41,7 @@ Now that we have our Internal and External IP Addresses and the port number from
 
     ![Minecraft Task](../assets/images/port/2.07.png)
 
-2. Under the more tab, click on Advanced Settings.
+2. Under the More tab, click on Advanced Settings.
 
     ![Minecraft Task](../assets/images/port/2.08.png)
 
@@ -49,7 +49,7 @@ Now that we have our Internal and External IP Addresses and the port number from
 
     ![Minecraft Task](../assets/images/port/2.09.png)
 
-4. Add Port Foward.
+4. Click on Add Port Foward.
 
     ![Minecraft Task](../assets/images/port/2.10.png)
 
