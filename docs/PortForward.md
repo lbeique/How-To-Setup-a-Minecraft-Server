@@ -29,7 +29,7 @@ Now that our Minecraft server is up and running, we need to configure some setti
         
       ![Minecraft Task](../assets/images/port/Task2.03.png)
 
-## Port Forwarding   
+## Port Forwarding
 
 For this part of the guide, we will give you the step by step instructions needed to forward the port on the Shaw Blue Curve Router. However, we can only give you more generalized instructions if you are currently using different router.
 
@@ -73,11 +73,11 @@ Now that we have our Internal and External IP Addresses and the port number from
 
       ![Minecraft Task](../assets/images/port/Task2.04.png)
 
-2. Inside the server file, find the `server-port` and `server-ip` entries. Set `server-port` to the same value that we found earlier and used in [Port Forwarding](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/PortForward/#finding-the-ip-addresses), which is `25565` by default. 
+2. Inside the server file, find the `server-port` and `server-ip` entries. Set `server-port` to the same value that we found earlier and used in [Port Forwarding](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/PortForward/#port-forwarding), which is `25565` by default. 
 
       ![Minecraft Task](../assets/images/port/Task2.05.png)
 
-3. Next, set the value of `server-ip` as the same as your Internal IP Address from [step 1](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/PortForward/#finding-the-ip-addresses).
+3. Next, set the value of `server-ip` as the same as your Internal IP Address from step 1 of [Finding the IP Addresses](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/PortForward/#finding-the-ip-addresses).
 
       ![Minecraft Task](../assets/images/port/Task2.06.png)
 
@@ -85,7 +85,7 @@ Now that we have our Internal and External IP Addresses and the port number from
 
 1. We are almost done! Next, simply start the server by following the steps from [Server Initialization](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/Server%20Initialization/#starting-the-server).
 
-2. Finally, boot up your Minecraft client and enter the External IP Address from [step 2](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/PortForward/#finding-the-ip-addresses) and you should be able to connect to your server!
+2. Finally, boot up your Minecraft client and enter the External IP Address from step 2 of [Finding the IP Addresses](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/PortForward/#finding-the-ip-addresses) and you should be able to connect to your server!
 
 ## Conclusion
 {: .no_toc }
