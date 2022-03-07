@@ -28,6 +28,7 @@ Now that our Minecraft server is up and running, we need to configure some setti
 2. Next, we need to find your External IP Address. Thankfully, this one is really easy. Go to the website [whatismyipaddress.com](https://whatismyipaddress.com/) and look for the `IPv4 address` near the top of the page. Once again, write down this information because we will need it shortly.
         
       ![Minecraft Task](../assets/images/port/Task2.03.png)
+
 ## Port Forwarding   
 
 1. Now that we have our Internal and External IP Addresses and the port number from [Server Initialization](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/Server%20Initialization/#changing-the-configurations) (by default this port number is `25565`), we can proceed to go into the settings of our router and enable Port Forwarding.
@@ -50,7 +51,7 @@ Now that our Minecraft server is up and running, we need to configure some setti
 
       ![Minecraft Task](../assets/images/port/Task2.05.png)
 
-3. Next, set the value of server-ip as the same as your Internal IP Address from [step 1]().
+3. Next, set the value of server-ip as the same as your Internal IP Address from [step 1](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/PortForward/#finding-the-ip-addresses).
 
       ![Minecraft Task](../assets/images/port/Task2.06.png)
 
