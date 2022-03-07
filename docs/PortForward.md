@@ -61,11 +61,11 @@ Now that we have our Internal and External IP Addresses and the port number from
 
 1. If you do not have a Shaw Blue Curve Router, there are a few general steps you can take here. In your browser, type in your Internal IP Address. This will hopefully allow you to access your router. Inside this page, look for “advanced settings” or “networking”, and then look for “Port Forwarding”. If given a choice, you’ll want to Manually Enter this information:
 
-    Service name: Minecraft Server  
+    `Service name: Minecraft Server  
     Service type: TCP/UDP  
     Port Ranges: 25565  
     Internal IP Address: (What you wrote down in step 1)  
-    External IP Address: (What you wrote down in step 2)  
+    External IP Address: (What you wrote down in step 2)`
 
 ## Changing the Configurations
 
