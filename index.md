@@ -11,7 +11,7 @@ permalink: /
 
 On a public server players can collaborate with other plays to build more and play mini games. However, you cannot control exactly who can connect to the public servers. By setting up your own local server you can control exactly who can connect.
 
-This guide is for parents that want a safer environment for their kids to collaborate with their friends on minecraft, or seasoned minecraft players that want their own private servers to play on with their friends.
+This guide is for parents that want a safer environment for their kids to collaborate with their friends on minecraft, or seasoned minecraft players that want their own private servers to play on with their friends. This guide will also help you with installing mods and or plugins to improve your Minecraft server experience!
 
 Setting up your own local server requires changing your home network's configuration and is not recommended unless you know what you are doing. If you still want to go with this free route, please do so at your own risk!
 
