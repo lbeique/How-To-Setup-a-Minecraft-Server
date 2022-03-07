@@ -61,5 +61,6 @@ This is the list of hardware requirements for Minecraft Java Edition as per the 
 |OS|Windows: Windows 7 and up -macOS: Any 64-bit / OS X using 10.9 Maverick or newer / Linux: Any modern 64-bit distributions from 2014 onwards|64 bit recommended: Windows: Windows 10 / macOS: macOS 10.12 Sierra / Linux: Any modern distributions from 2014 onwards|
 
 ## Conclusion
+{: .no_toc }
 
 All done! Now we can begin [setting up](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/Server%20Initialization/) the Minecraft Server.
