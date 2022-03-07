@@ -5,7 +5,7 @@
 <p align="center">
     <h1 align="center">How to Setup a Minecraft Server</h1>
     <p align="center">A guide to install, setup, and run your very own Minecraft server to play on with you and your friends!<br>We will also be showing you how to install mods and plugins to provide a more creative and customized experience!</p>
-    <p align="center"><strong><a href="https://lbeique.github.io/How-To-Setup-a-Minecraft-Server">Get started now!</a></strong></p>
+    <p align="center"><strong><a href="https://lbeique.github.io/How-To-Setup-a-Minecraft-Server" target="_blank">Get started now!</a></strong></p>
     <br><br><br>
 </p>
 
