@@ -56,7 +56,7 @@ Now that our Minecraft server is up and running, we need to configure some setti
 
 ## Joining the Server
 
-1. We are almost done! Next, simply start the server following steps 5 and 6 from [Server Initialization](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/Server%20Initialization/#starting-the-server).
+1. We are almost done! Next, simply start the server by following the steps from [Server Initialization](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/Server%20Initialization/#starting-the-server).
 
 2. Finally, boot up your Minecraft client and enter the External IP Address from [step 2](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/PortForward/finding-the-ip-addresses) and you should be able to connect to your server!
 
