@@ -59,9 +59,11 @@ The first task we need to do to set up and host a Minecraft: Java Edition Server
 
     ![Minecraft Task](../assets/images/server/Task1.11.png)
 
-3. Look for the `query.port` line and write down the port number. This will be important when we forward the ports in [Port Forwarding](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/PortForward/), to allow other users to join the server. You probably noticed there are a lot more settings in this file that can enhance your play experience, and we strongly recommend you take a [detailed](https://minecraft.fandom.com/wiki/Server.properties) look through them at a later time.
+3. Look for the `query.port` line and write down the port number. This will be important when we forward the ports in [Port Forwarding](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/PortForward/), to allow other users to join the server.
 
     ![Minecraft Task](../assets/images/server/Task1.13.png)
+    
+    You probably noticed there are a lot more settings in this file that can enhance your play experience, and we strongly recommend you take a [detailed](https://minecraft.fandom.com/wiki/Server.properties) look through them at a later time.
     
 ## Running the Server
 
