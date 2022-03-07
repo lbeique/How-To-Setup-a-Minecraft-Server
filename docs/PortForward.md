@@ -19,7 +19,7 @@ Now that our Minecraft server is up and running, we need to configure some setti
 
 1. First, we need to find your Internal IP Address. 
 
-    If you are on Windows, open the Command Prompt App. Next type the command: `ipconfig`, this will give you a list Ethernet adapters. Look for the `IPv4 address` (it begins with `192.168`) and write it down.
+    If you are on Windows, open the Command Prompt App. Next type the command: `ipconfig`, this will give you a list of Ethernet adapters. Look for the `IPv4 address` (it begins with `192.168`) and write it down.
     
       ![Minecraft Task](../assets/images/port/Task2.01.png)
         
@@ -31,7 +31,7 @@ Now that our Minecraft server is up and running, we need to configure some setti
 
 ## Port Forwarding   
 
-For this part of the guide, we will give you step by step instructions if you are using the Shaw Blue Curve Router. However, we can only give you more generalized instructions if you are currently using different router.
+For this part of the guide, we will give you the step by step instructions needing to forward the port on the Shaw Blue Curve Router. However, we can only give you more generalized instructions if you are currently using different router.
 
 ### Shaw Blue Curve Router
 
