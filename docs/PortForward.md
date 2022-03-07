@@ -37,11 +37,11 @@ For this part of the guide, we will give a step by step guide if you are using t
 
 Now that we have our Internal and External IP Addresses and the port number from [Server Initialization](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/Server%20Initialization/#changing-the-configurations) (by default this port number is `25565`), we can proceed to go into the settings of our router and enable Port Forwarding.
 
-1. Go to Connect on Shaw.com. Click on See network.
+1. Connect to your Blue Curve Web App but visiting [internet.shaw.ca/connect](https://internet.shaw.ca/connect). On the main hub, click on Connect near the middle of the top of the page. Then click on your wireless network.
 
     ![Minecraft Task](../assets/images/port/2.07.png)
 
-2. Go to Advanced Settings.
+2. Under the more tab, click on Advanced Settings.
 
     ![Minecraft Task](../assets/images/port/2.08.png)
 
