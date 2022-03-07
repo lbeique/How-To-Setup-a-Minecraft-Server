@@ -44,8 +44,6 @@ The first task to set up and host a Minecraft: Java Edition Server is to downloa
 
     ![Minecraft Task](../assets/images/server/Task1.09.png)
 
-    ![Minecraft Task](../assets/images/server/Task1.10.png)
-
     ![Minecraft Task](../assets/images/server/Task1.11.png)
 
 9. Look for the < query.port > line and write down the port number. This will be important when we forward the ports in Task 2, to allow other users to join the server. In this server properties file, there are many settings that you can change and we will explain them more extensively in another section.
