@@ -62,4 +62,4 @@ This is the list of hardware requirements for Minecraft Java Edition as per the 
 
 ## Conclusion
 
-All done! Now we can begin setting up the Minecraft Server.
+All done! Now we can begin [setting up](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/Server%20Initialization/) the Minecraft Server.
