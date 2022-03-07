@@ -35,16 +35,26 @@ For this part of the guide, we will give a step by step guide if you are using t
 
 ### Shaw Blue Curve Router
 
-1. Now that we have our Internal and External IP Addresses and the port number from [Server Initialization](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/Server%20Initialization/#changing-the-configurations) (by default this port number is `25565`), we can proceed to go into the settings of our router and enable Port Forwarding.
+Now that we have our Internal and External IP Addresses and the port number from [Server Initialization](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/Server%20Initialization/#changing-the-configurations) (by default this port number is `25565`), we can proceed to go into the settings of our router and enable Port Forwarding.
+
+1. Go to Connect on Shaw.com. Click on See network.
 
     ![Minecraft Task](../assets/images/port/2.07.png)
-      
+
+2. Go to Advanced Settings.
+
     ![Minecraft Task](../assets/images/port/2.08.png)
-      
+
+3. Click on Port Forwarding.
+
     ![Minecraft Task](../assets/images/port/2.09.png)
-      
+
+4. Add Port Foward.
+
     ![Minecraft Task](../assets/images/port/2.10.png)
-      
+
+5. Select your DESKTOP for the device used for this port. Choose Manual Setup or Minecraft. Set the Port Number to `25565`. Ensure that TCP/UDP as the Protocol. Hit next and that's it!
+
     ![Minecraft Task](../assets/images/port/2.11.png)
 
 ### Telus or Other Router
