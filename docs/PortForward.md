@@ -69,15 +69,15 @@ Now that we have our Internal and External IP Addresses and the port number from
 
 ## Changing the Configurations
 
-1. Find the server file in the Minecraft server folder of the file type “properties source file”, and then right-click it, select Open With, and then select Notepad. The server file should open and display all of the Minecraft server properties.
+1. Find the server file in the Minecraft server folder of the file type `properties source file`, and then right-click it, select Open With, and then select Notepad. The server file should open and display all of the Minecraft server properties.
 
       ![Minecraft Task](../assets/images/port/Task2.04.png)
 
-2. Inside the server file, find the server-port and server-ip entries. Set server-port to the same value that we used for the Port Ranges in step 3. 
+2. Inside the server file, find the `server-port` and `server-ip` entries. Set `server-port` to the same value that we used for the Port Ranges in [step 3](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/PortForward/#finding-the-ip-addresses). 
 
       ![Minecraft Task](../assets/images/port/Task2.05.png)
 
-3. Next, set the value of server-ip as the same as your Internal IP Address from [step 1](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/PortForward/#finding-the-ip-addresses).
+3. Next, set the value of `server-ip` as the same as your Internal IP Address from [step 1](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/PortForward/#finding-the-ip-addresses).
 
       ![Minecraft Task](../assets/images/port/Task2.06.png)
 
