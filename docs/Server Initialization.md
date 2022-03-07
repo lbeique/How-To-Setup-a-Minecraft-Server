@@ -25,7 +25,7 @@ The first task we need to do to set up and host a Minecraft: Java Edition Server
 
     ![Minecraft Task](../assets/images/server/Task1.01.PNG)
 
-3. In order to run the commands in the Command Prompt, we need to know the location, or filepath, of the `.jar` file we downloaded. We can determine the file path by opening the folder and clicking on the address bar near the top.  In this example, the file path is: C:\Users\lbeiq\Desktop\Minecraft Server
+3. In order to run the commands in the Command Prompt, we need to know the location, or filepath, of the `.jar` file we downloaded. We can determine the file path by opening the folder and clicking on the address bar near the top.  In this example, the file path is: `C:\Users\lbeiq\Desktop\Minecraft Server`.
 
     ![Minecraft Task](../assets/images/server/Task1.03.png)
 
