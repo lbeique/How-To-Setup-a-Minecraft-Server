@@ -53,7 +53,7 @@ Now that we have our Internal and External IP Addresses and the port number from
 
     ![Minecraft Task](../assets/images/port/2.10.png)
 
-5. Select your DESKTOP for the device used for this port. Choose Manual Setup or Minecraft. Set the Port Number to `25565`. Ensure that TCP/UDP as the Protocol. Hit next and that's it!
+5. Select your DESKTOP for the device used for this port. For the configuration, choose Manual Setup or Minecraft. Set the Port Number to the one we wrote down earlier, which will be `25565` by default. Ensure that TCP/UDP is the Protocol. Hit next and that's it!
 
     ![Minecraft Task](../assets/images/port/2.11.png)
 
