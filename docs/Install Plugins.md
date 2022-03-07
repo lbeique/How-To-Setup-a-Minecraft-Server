@@ -12,7 +12,7 @@ Plugins are an extension to your Minecraft server that can add more features to 
 
 Now, let's get started!
 
-1. Go to https://www.spigotmc.org/resources and download the plugins you would like on your server.
+1. Go to [www.spigotmc.org/resources](https://www.spigotmc.org/resources) and download the plugins you would like on your server.
 
     ![Minecraft Task](../assets/images/plugins/download_plugin.png)
 
