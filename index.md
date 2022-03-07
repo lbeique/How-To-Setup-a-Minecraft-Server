@@ -13,7 +13,7 @@ On a public server players can collaborate with other plays to build more and pl
 
 This guide is for parents that want a safer environment for their kids to collaborate with their friends on minecraft, or seasoned minecraft players that want their own private servers to play on with their friends.
 
-Setting up your own local server requires changing your home network's configuration and is not recommended unless you know what you are doing. If this is a concern for you, please see our alternative guide to set up a private server by purchasing Minecraft Realms. If you still want to go with this free route, please do so at your own risk!
+Setting up your own local server requires changing your home network's configuration and is not recommended unless you know what you are doing. If you still want to go with this free route, please do so at your own risk!
 
 ---
 
@@ -25,7 +25,7 @@ Setting up your own local server requires changing your home network's configura
 
 ## Intended Users
 
-Users of this guide are expected to have basic understanding of the windows operating system and the ability to read and understand command lines. Pictures and clear instructions are provided throughout the guide to try and accomodate users at all skill levels.
+Users of this guide are expected to have basic understanding of the windows operating system and the ability to read and understand command lines. Users do have to be comfortable installing files and programs, accessing computer folders and editing files. Pictures and clear instructions are provided throughout the guide to try and accomodate users at all skill levels.
 
 ## Prerequistes
 
