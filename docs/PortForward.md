@@ -16,7 +16,7 @@ Now that our Minecraft server is up and running, we need to configure some setti
         
     If you are on Mac, open the Terminal App. Next type the command < ifconfig >, this will give you a list of Ethernet adapters. Look for the IPv4 address (it begins with 192.168) and write it down.
 
-2. Next, we need to find your External IP Address. Thankfully, this one is really easy. Go to the website https://whatismyipaddress.com/ and look for the IPv4 address near the top of the page. Once again, write down this information because we will need it shortly.
+2. Next, we need to find your External IP Address. Thankfully, this one is really easy. Go to the website [whatismyipaddress.com](https://whatismyipaddress.com/) and look for the IPv4 address near the top of the page. Once again, write down this information because we will need it shortly.
         
       ![Minecraft Task](../assets/images/port/Task2.03.png)
         
