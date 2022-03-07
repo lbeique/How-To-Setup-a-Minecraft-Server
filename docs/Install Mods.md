@@ -13,12 +13,12 @@ This guide will explain the process of adding mods on your current minecraft ser
 
 One of the most popular and easiest way to install and run mods is to use an application called Forge.
 
-1. Go to https://files.minecraftforge.net/net/minecraftforge/forge/ and click on the installer button to download the recommened version of Forge app.
+1. Go to [files.minecraftforge.net](https://files.minecraftforge.net/net/minecraftforge/forge/) and click on the installer button to download the recommened version of Forge app.
 
     ![Minecraft Task](../assets/images/mods/download_forge.png)
 
 
-2. Go to https://www.curseforge.com/minecraft/mc-mods and download which mods you would like on your server. Make sure the mods you are downloading are compatible with your Forge software.
+2. Go to [www.curseforge.com/minecraft](https://www.curseforge.com/minecraft/mc-mods) and download which mods you would like on your server. Make sure the mods you are downloading are compatible with your Forge software.
     
     ![Minecraft Task](../assets/images/mods/Curseforge_download_mod.png)
 
