@@ -87,4 +87,7 @@ Now that we have our Internal and External IP Addresses and the port number from
 
 2. Finally, boot up your Minecraft client and enter the External IP Address from [step 2](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/PortForward/#finding-the-ip-addresses) and you should be able to connect to your server!
 
+## Conclusion
+{: .no_toc }
+
 Congratulations! Your friends can now join you in your world. Don’t forget to [install some mods](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/Install%20Mods/) for your server to heighten your experience.
