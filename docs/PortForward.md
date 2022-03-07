@@ -31,20 +31,25 @@ Now that our Minecraft server is up and running, we need to configure some setti
 
 ## Port Forwarding   
 
-      ![Minecraft Task](../assets/images/port/Task2.07.png)
-      
-      ![Minecraft Task](../assets/images/port/Task2.08.png)
-      
-      ![Minecraft Task](../assets/images/port/Task2.09.png)
-      
-      ![Minecraft Task](../assets/images/port/Task2.10.png)
-      
-      ![Minecraft Task](../assets/images/port/Task2.11.png)
+For this part of the guide, we will give a step by step guide if you are using the Shaw Blue Curve Router, and will give more generalized instructions if you have a different router.
 
+### Shaw Blue Curve Router
 
 1. Now that we have our Internal and External IP Addresses and the port number from [Server Initialization](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/Server%20Initialization/#changing-the-configurations) (by default this port number is `25565`), we can proceed to go into the settings of our router and enable Port Forwarding.
 
-    If you do not have a Shaw Blue Curve Router, there are a few general steps you can take here. In your browser, type in your Internal IP Address. This will hopefully allow you to access your router. Inside this page, look for “advanced settings” or “networking”, and then look for “Port Forwarding”. If given a choice, you’ll want to Manually Enter this information:
+    ![Minecraft Task](../assets/images/port/Task2.07.png)
+      
+    ![Minecraft Task](../assets/images/port/Task2.08.png)
+      
+    ![Minecraft Task](../assets/images/port/Task2.09.png)
+      
+    ![Minecraft Task](../assets/images/port/Task2.10.png)
+      
+    ![Minecraft Task](../assets/images/port/Task2.11.png)
+
+### Telus or Other Router
+
+If you do not have a Shaw Blue Curve Router, there are a few general steps you can take here. In your browser, type in your Internal IP Address. This will hopefully allow you to access your router. Inside this page, look for “advanced settings” or “networking”, and then look for “Port Forwarding”. If given a choice, you’ll want to Manually Enter this information:
 
     Service name: Minecraft Server  
     Service type: TCP/UDP  
