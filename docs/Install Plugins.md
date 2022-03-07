@@ -30,5 +30,6 @@ Now, let's get started!
 4. Start your server to confirm that your plugins have been installed correctly.
 
 ## Conclusion
+{: .no_toc }
 
 That's it! The process of installing plugins for your Minecraft server is very simple and only requires a few clicks!
