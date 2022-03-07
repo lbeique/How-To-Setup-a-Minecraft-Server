@@ -73,4 +73,7 @@ The first task we need to do to set up and host a Minecraft: Java Edition Server
 
     ![Minecraft Task](../assets/images/server/Task1.23.png)
 
+## Conclusion
+{: .no_toc }
+
 Great job! Next we will [forward the server port](https://lbeique.github.io/How-To-Setup-a-Minecraft-Server/docs/PortForward/) so that we can invite other users to the Minecraft Server!
