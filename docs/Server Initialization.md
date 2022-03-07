@@ -8,9 +8,9 @@ nav_order: 2
 
 These are the steps you will take to start running your Minecraft server.
 
-The first task to set up and host a Minecraft: Java Edition Server is to download the Minecraft Server .jar (Java ARchive) file and change its configuration settings. This task will require the use of the Command Prompt app. Do not worry, we will guide you through every step of the process.
+The first task to set up and host a Minecraft: Java Edition Server is to download the Minecraft Server `.jar` (Java ARchive) file and change its configuration settings. This task will require the use of the Command Prompt app. Do not worry, we will guide you through every step of the process.
 
-1. Before we download the .jar file, we need to create a folder to keep all of the server files in. Create the folder on your desktop and name it “Minecraft Server”.
+1. Before we download the `.jar` file, we need to create a folder to keep all of the server files in. Create the folder on your desktop and name it “Minecraft Server”.
 
 2. Go to [www.minecraft.net/en-us/download/server](https://www.minecraft.net/en-us/download/server) and download the minecraft_server.1.XX.X.jar file and save the file in the “Minecraft Server” folder we created.
 
@@ -24,12 +24,9 @@ The first task to set up and host a Minecraft: Java Edition Server is to downloa
 
     ![Minecraft Task](../assets/images/server/Task1.03.png)
 
-5. In the command prompt, type the command:
-        ```cd
-        ```
-followed by a space and then the file path to the location of the .jar file. Hit enter to run the command. In this example, the command is < cd C:\Users\lbeiq\Desktop\Minecraft Server >
+5. In the command prompt, type the command: `cd` followed by a space and then the file path to the location of the `.jar` file. Hit enter to run the command. In this example, the command is: `cd C:\Users\lbeiq\Desktop\Minecraft Server`
 
-6. Once you are in the correct directory in the command prompt, type the command < Java -jar > followed by a space and the name of your .jar file. Hit enter to run the command.  In this example, the command is < Java -jar server.jar >
+6. Once you are in the correct directory in the command prompt, type the command: `Java -jar` followed by a space and the name of your `.jar` file. Hit enter to run the command.  In this example, the command is: `Java -jar server.jar`
 
     ![Minecraft Task](../assets/images/server/Task1.04.png)
 
