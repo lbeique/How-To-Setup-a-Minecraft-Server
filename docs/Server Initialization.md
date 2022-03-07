@@ -20,13 +20,14 @@ The first task to set up and host a Minecraft: Java Edition Server is to downloa
 
     ![Minecraft Task](../assets/images/server/Task1.02.png)
 
-4. In order to run the commands in the Command Prompt, we need to know the location, or filepath, of the .jar file we downloaded. We can determine the file path by opening the folder and clicking on the address bar near the top.  In this example, the file path is: C:\Users\lbeiq\Desktop\Minecraft Server
+4. In order to run the commands in the Command Prompt, we need to know the location, or filepath, of the `.jar` file we downloaded. We can determine the file path by opening the folder and clicking on the address bar near the top.  In this example, the file path is: C:\Users\lbeiq\Desktop\Minecraft Server
 
     ![Minecraft Task](../assets/images/server/Task1.03.png)
 
 5. In the command prompt, type the command: `cd` followed by a space and then the file path to the location of the `.jar` file. Hit enter to run the command.  In this example, the command is: `cd C:\Users\lbeiq\Desktop\Minecraft Server`.
 
-6. Once you are in the correct directory in the command prompt, type the command: `Java -jar` followed by a space and the name of your `.jar` file. Hit enter to run the command.  In this example, the command is: `Java -jar server.jar`.
+6. Once you are in the correct directory in the command prompt, type the command: `Java -jar` followed by a space and the name of your `.jar` file. Hit enter to run the command.
+        In this example, the command is: `Java -jar server.jar`.
 
     ![Minecraft Task](../assets/images/server/Task1.04.png)
 
